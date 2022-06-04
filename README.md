@@ -35,23 +35,22 @@
 
 ## :dart: About ##
 
-Describe your project
+ReactJS Project management site
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Create projects;\
+:heavy_check_mark: Assign users to the project;\
+:heavy_check_mark: Add comments to a project;\
+:heavy_check_mark: Show users online;\
+:heavy_check_mark: Filter projects;
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Firebase](https://firebase.google.com/)
 
 ## :white_check_mark: Requirements ##
 
