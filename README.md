@@ -2,7 +2,7 @@
   <img src="https://github.com/EdgardoDev/MyFiles/blob/main/react-square.png?raw=true" alt="React Logo" height="200" width="200"/>
 </div>
 
-<h1 align="center">Web Team</h1>
+<h1 align="center">Web Team Management Tool</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/EdgardoDev/web-team?logo=react&logoColor=%23fff&style=for-the-badge&color=066da5">
@@ -28,22 +28,22 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/EdgardoDev" target="_blank">Author</a>
 </p>
 
 <br>
 
 ## :dart: About ##
 
-ReactJS Project management site
+Web Team Project Management Tool. This is a tool made using React where a team of developers, designers and Marketers can create projects/tasks to be completed by any team members. 
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Create projects;\
-:heavy_check_mark: Assign users to the project;\
-:heavy_check_mark: Add comments to a project;\
-:heavy_check_mark: Show users online;\
-:heavy_check_mark: Filter projects;
+:heavy_check_mark: Create projects.\
+:heavy_check_mark: Assign users to the project.\
+:heavy_check_mark: Add comments to a project.\
+:heavy_check_mark: Show users online.\
+:heavy_check_mark: Filter projects.
 
 ## :rocket: Technologies ##
 
@@ -51,6 +51,8 @@ The following tools were used in this project:
 
 - [React](https://pt-br.reactjs.org/)
 - [Firebase](https://firebase.google.com/)
+- [React Hooks / Custom Hooks](https://reactjs.org/docs/hooks-intro.html)
+
 
 ## :white_check_mark: Requirements ##
 
